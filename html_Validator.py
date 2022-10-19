@@ -1,10 +1,5 @@
-# SECTION: 1
-# Dawit Zeleke          UGR/7912/13
-# Nathnael Dereje       UGR/8587/13
-# Zekariyas Teshager     UGR/5840/13
 
 from stack import Stack
-
 
 class checkHtml:
     
