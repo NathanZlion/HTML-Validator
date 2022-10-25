@@ -78,5 +78,5 @@ class checkHtml:
 HTML = checkHtml()
 
 # print(HTML.history('file.html'))
-
-HTML.showfile('file.html')
+# HTML.showfile('file.html')
+# print(HTML.validate('file.html'))
